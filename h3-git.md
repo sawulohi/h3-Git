@@ -104,4 +104,5 @@ README.md-tiedostoon tuli näkyviin tehtyjä muutoksia varaston "kotisivulla". M
 
 #### Lähteet:
 [https://askubuntu.com/questions/206449/git-config-global-file-remove-settings](https://askubuntu.com/questions/206449/git-config-global-file-remove-settings)
+
 [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
